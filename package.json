@@ -1,0 +1,19 @@
+{
+  "name": "cocoons-access",
+  "version": "1.0.0",
+  "author": "Christophe Lombart <christophe.lombart@gmail.com>",
+  "description": "Access middelware for cocoons.io",
+  "homepage": "http://www.cocoons.io",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christophebe/cocoons-access.git"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "license": "Apache 2.0"
+}
