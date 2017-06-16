@@ -8,5 +8,5 @@ module.exports = function(log) {
 
     log.info(logAccess);
     next();
-  }
-}
+  };
+};
